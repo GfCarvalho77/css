@@ -1,0 +1,35 @@
+h1{
+    color: blue
+}
+
+h2 {
+    color: rgb(0, 128, 23);
+}
+
+#sports h2{
+    color:crimson;
+}
+
+#econ h2 {
+    color: coral;
+}
+
+#entert h2{
+    color: blueviolet;
+}
+
+#tecnol h2{
+    color: rgb(206, 106, 84);
+}
+
+.creation_date {
+    color: crimson;
+}
+.fut_creation_date {
+    color: darkmagenta;
+}
+* {
+    color: rgb(0, 0, 0);
+}
+.subtitle {color: brown}
+#sports *:hover {color: violet;}
